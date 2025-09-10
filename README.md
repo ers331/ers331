@@ -26,3 +26,11 @@ Aqui estão algumas das tecnologias que já usei nos meus projetos:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🏆 Achievements
+Alguns badges e conquistas legais:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ers331&theme=tokyonight&hide_border=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ers331&theme=tokyonight&no-frame=true&margin-w=15)
