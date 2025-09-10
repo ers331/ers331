@@ -26,11 +26,3 @@ Aqui estão algumas das tecnologias que já usei nos meus projetos:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ers331&show_icons=true&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ers331&layout=compact&theme=tokyonight)
